@@ -1,0 +1,5 @@
+com.mycompany.pluginsystem.plugins.szamlal.SzamlalPlugin
+com.mycompany.pluginsystem.plugins.nagybetu.NagybetuPlugin
+com.mycompany.pluginsystem.plugins.ekezettelen.EkezettelenPlugin
+com.mycompany.pluginsystem.plugins.palindrom.PalindromPlugin
+com.mycompany.pluginsystem.plugins.caesar.CaesarPlugin
